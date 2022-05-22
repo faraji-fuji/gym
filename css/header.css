@@ -1,0 +1,19 @@
+.my-header{ 
+    background: url("./sven-mieke-MsCgmHuirDo-unsplash.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 30rem;
+  }
+  
+  .nav-link:hover
+  {
+    color: #198754;
+  } 
+
+  .my-gutter
+  {
+    background-color: #198754;
+    height: 1rem;
+  }
